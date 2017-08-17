@@ -1,0 +1,183 @@
+[{
+  "id": "gzkb",
+  "label": "工作看板",
+  "children": [{
+    "id": "gzkb_xytz",
+    "label": "校园通知 （可以发布校园通知给校区所有学员）"
+  },
+    {
+      "id": "gzkb_jrkc",
+      "label": "今日课程 （可以查看全校当日课程）"
+    },
+    {
+      "id": "gzkb_xkbm",
+      "label": "选课报名 （查看处理学员的选课报名申请）"
+    },
+    {
+      "id": "gzkb_tsyj",
+      "label": "投诉意见 （查看处理学员或家长的投诉意见）"
+    }]
+},
+  {
+    "id": "yx",
+    "label": "万象云校",
+    "children": [{
+      "id": "yx_xtsz",
+      "label": "系统设置 （微校通系统基本设置）"
+    },
+      {
+        "id": "yx_zszz",
+        "label": "招生追踪",
+        "children": [
+          {
+            "id": "yx_zszz_syxygl",
+            "label": "所有学员管理 （可管理所有意向学员并进行分配）"
+          },
+          {
+            "id": "yx_zszz_glxygl",
+            "label": "关联学员管理 （可管理有关联的意向学员）"
+          },
+          {
+            "id": "yx_zszz_yyst",
+            "label": "预约试听管理 （可管理所有试听课的安排）"
+          },
+          {
+            "id": "yx_zszz_wxbd",
+            "label": "微信表单管理 （可管理所有的微信自定义报名表单）"
+          },
+          {
+            "id": "yx_zszs_sz",
+            "label": "招生追踪设置 （招生追踪相关的基本设置）"
+          }]
+
+      },
+      {
+        "id": "yx_xygl",
+        "label": "学员管理",
+        "children": [{
+          "id": "yx_xygl_all",
+          "label": "所有学员管理 （可管理所有正式学员的信息）"
+        },
+          {
+            "id": "yx_xygl_my",
+            "label": "关联学员管理 （可管理有关联的学员信息）"
+          }]
+      },
+      {
+        "id": "yx_bjgl",
+        "label": "班级管理",
+        "children": [{
+          "id": "yx_bjgl_all",
+          "label": "所有班级管理 （可以管理所有班级信息）"
+        },
+          {
+            "id": "yx_bjgl_my",
+            "label": "关联班级管理 （可以管理有关联班级信息）",
+            "children": [{
+              "id": "yx_bjgl_my_view",
+              "label": "关联班级查看 （相关班级信息的查看）"
+            },
+              {
+                "id": "yx_bjgl_my_kczt",
+                "label": "课程状态管理 （可对课程状态进行调整，如上下课、调课）"
+              },
+              {
+                "id": "yx_bjgl_my_xskq",
+                "label": "学生考勤管理 （可对上课学员进行考勤管理）"
+              },
+              {
+                "id": "yx_bjgl_my_qtxx",
+                "label": "其他信息管理 （除课程状态与学员考勤外的其他功能）"
+              }]
+          }]
+      },
+      {
+        "id": "yx_kcgl",
+        "label": "课程管理 （学校可用课程管理）"
+      },
+      {
+        "id": "yx_yggl",
+        "label": "员工管理",
+        "children": [{
+          "id": "yx_yggl_add",
+          "label": "添加员工 （可以添加新员工信息）"
+        },
+          {
+            "id": "yx_yggl_edit",
+            "label": "编辑员工 （可以添加删除修改员工信息）"
+          },
+          {
+            "id": "yx_yggl_view",
+            "label": "查看员工信息 （查看员工基本信息）"
+          },
+          {
+            "id": "yx_yggl_msg",
+            "label": "校内通知管理 （可以向员工发送校内通知和管理通知）"
+          }]
+      },
+      {
+        "id": "yx_cwgl",
+        "label": "财务管理",
+        "children": [{
+          "id": "yx_cwgl_log",
+          "label": "财务记录 （查询管理财务流水）"
+        },
+          {
+            "id": "yx_cwgl_jf",
+            "label": "缴费权限 （学员报名缴费 续费等操作）"
+          },
+          {
+            "id": "yx_cwgl_tf",
+            "label": "退费权限 （学员费用退费权限）"
+          }]
+      },
+      {
+        "id": "yx_bb",
+        "label": "报表管理",
+        "children": [{
+          "id": "yx_bb_zssj",
+          "label": "招生数据 （可以查看招生数据报表）"
+        },
+          {
+            "id": "yx_xytj",
+            "label": "学员统计 （可以查看正式学员数据报表）"
+          },
+          {
+            "id": "yx_cwfx",
+            "label": "财务分析 （可以查看校区财务数据报表）"
+          }]
+      }]
+  },
+  {
+    "id": "wx",
+    "label": "微信营销",
+    "children": [{
+      "id": "wx_wxsz",
+      "label": "微信设置 （微信营销功能的关键设置）"
+    },
+      {
+        "id": "wx_jcxc",
+        "label": "基础宣传 （微网站、自动回复等基础展示功能操作权）"
+      },
+      {
+        "id": "wx_hdyx",
+        "label": "互动营销 （操作线上、线下学员互动功能）"
+      },
+      {
+        "id": "wx_zshd",
+        "label": "招生活动 （开展新媒体线上招生活动）"
+      },
+      {
+        "id": "wx_xyds",
+        "label": "校园电商 （搭建校园线上购课平台）"
+      }]
+  },
+  {
+    "id": "wxt_m",
+    "label": "手机端",
+    "children": [{
+      "id": "wxt_m_xx",
+      "label": "互动消息 （师生互动功能）"
+    }]
+  }]
+

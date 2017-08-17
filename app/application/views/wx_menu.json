@@ -1,0 +1,444 @@
+[
+  {
+    "title": "微信设置",
+    "type": {
+      "0": {
+        "title": " 初始设置 ",
+        "link": [
+          {
+            "title": "公众号设置",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Index&a=edit&id=<?=$id?>"
+          },
+          {
+            "title": "校区LBS定位",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Company&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "模版消息配置",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=TemplateMsg&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "快捷关注配置",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Quick&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "IP黑名单防止刷票",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Blacklist&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "自动获取粉丝权限",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Auth&a=index&token=<?=$token?>"
+          }
+        ]
+      },
+      "1": {
+        "title": " 粉丝管理 ",
+        "link": [
+          {
+            "title": "粉丝管理",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Wechat_group&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "分组管理",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Wechat_group&a=groups&token=<?=$token?>"
+          },
+          {
+            "title": "粉丝行为管理",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Wechat_behavior&a=statistics&token=<?=$token?>"
+          },
+          {
+            "title": "会员信息管理",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Wechat_group&a=info&token=<?=$token?>"
+          }
+        ]
+      },
+      "2": {
+        "title": " 客服管理 ",
+        "link": [
+          {
+            "title": "微信人工客服",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=ServiceUser&a=wechatService&token=<?=$token?>"
+          },
+          {
+            "title": "网页客服管理",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Service&a=servicelist&token=<?=$token?>&type=setup"
+          },
+          {
+            "title": "聊天推广内容",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Service&a=preferentiallist&token=<?=$token?>"
+          },
+          {
+            "title": "聊天个人板块",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Service&a=my&token=<?=$token?>&type=my"
+          }
+        ]
+      },
+      "3": {
+        "title": " 自定义菜单设置 ",
+        "link": [
+          {
+            "title": "普通自定义菜单",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Diymen&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "个性化自定义菜单",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Conditionalmenu&a=index&token=<?=$token?>"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "基础宣传",
+    "type": {
+      "0": {
+        "title": " 微网站 ",
+        "link": [
+          {
+            "title": "首页配置",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Home&a=set&token=<?=$token?>"
+          },
+          {
+            "title": "模版管理",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Tmpls&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "分类管理",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Classify&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "文章管理",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Img&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "首页幻灯片",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Flash&a=index&token=<?=$token?>&tip=1"
+          },
+          {
+            "title": "轮播背景图",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Flash&a=index&token=<?=$token?>&tip=2"
+          },
+          {
+            "title": "底部导航菜单",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Catemenu&a=index&token=<?=$token?>"
+          }
+        ]
+      },
+      "1": {
+        "title": " 微场景 ",
+        "link": [
+          {
+            "title": "创建场景",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=SeniorScene&a=highLive&token=<?=$token?>"
+          },
+          {
+            "title": "我的场景",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=SeniorScene&a=highLive&token=<?=$token?>"
+          },
+          {
+            "title": "场景关键词",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=SeniorScene&a=index&token=<?=$token?>"
+          }
+        ]
+      },
+      "2": {
+        "title": " 微渠道 ",
+        "link": [
+          {
+            "title": "推广海报",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Extension&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "渠道二维码",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Recognition&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "二维码扫描分析",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=RecognitionData&a=index&token=<?=$token?>"
+          }
+        ]
+      },
+      "3": {
+        "title": " 图文消息 ",
+        "link": [
+          {
+            "title": "关注回复",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Areply&a=advanceindex&token=<?=$token?>"
+          },
+          {
+            "title": "文本回复",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Text&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "语音回复",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Voiceresponse&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "多图文回复",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Img&a=multi&token=<?=$token?>"
+          },
+          {
+            "title": "微信图文群发",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Message&a=sendHistory&token=<?=$token?>"
+          },
+          {
+            "title": "模版消息群发",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=SendTemplateMsg&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "回答不上来配置",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Other&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "原文连接生成工具",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Quick&a=copyshortlink&token=<?=$token?>"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "互动营销",
+    "type": {
+      "0": {
+        "title": " 微互动 ",
+        "link": [
+          {
+            "title": "预约报名",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Custom&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "教师名片",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Person_card&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "校园论坛",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Forum&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "校园相册",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Photo&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "简易投票",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Vote&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "调查问卷",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Research&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "校园留言版",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Reply&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "活动邀请函",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Invite&a=add&token=<?=$token?>"
+          },
+          {
+            "title": "分享数据汇总",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Share&a=index&token=<?=$token?>"
+          }
+        ]
+      },
+      "1": {
+        "title": " 微活动 ",
+        "link": [
+          {
+            "title": "刮刮卡",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Guajiang&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "大转盘",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Lottery&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "九宫格",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Jiugong&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "砸金蛋",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=GoldenEgg&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "水果机",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=LuckyFruit&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "摇一摇",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=ShakeLottery&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "优惠券",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Coupon&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "摇钱树",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=CoinTree&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "拆礼盒",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Autumns&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "图文投票",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Voteimg&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "爱心募捐",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Donation&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "集字游戏",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Collectword&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "分享助力",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Helping&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "优惠接力",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=YouSetDiscount&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "人气冲榜",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Popularity&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "一战到底",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Problem&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "趣味测试",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Test&a=index&token=<?=$token?>&type=Test"
+          },
+          {
+            "title": "粉丝红包",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=DirectHongbao&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "微信红包",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Red_packet&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "合体红包",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Hongbao&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "我要上头条",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=FrontPage&a=index&token=<?=$token?>"
+          }
+        ]
+      },
+      "2": {
+        "title": " 微现场 ",
+        "link": [
+          {
+            "title": "活动签到",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Signin&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "现场摇一摇",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Shake&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "微信大屏幕",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Scene&a=index&token=<?=$token?>"
+          }
+        ]
+      },
+      "3": {
+        "title": " 自定义H5营销 ",
+        "link": [
+          {
+            "title": "信息设置",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Game&a=config&token=<?=$token?>"
+          },
+          {
+            "title": "我的H5游戏",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Game&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "游戏库",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Game&a=gameLibrary&token=<?=$token?>"
+          },
+          {
+            "title": "我的H5活动",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Boost&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "活动库",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Boost&a=boostLibrary&token=<?=$token?>"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "校园电商",
+    "type": {
+      "0": {
+        "title": " 微信商城 ",
+        "link": [
+          {
+            "title": "微信团购系统",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Groupon&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "微信商城系统",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Store&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "在线支付设置",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Alipay_config&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "微信支付证书",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Alipay_cert&a=index&token=<?=$token?>"
+          }
+        ]
+      },
+      "1": {
+        "title": " 电商活动 ",
+        "link": [
+          {
+            "title": "微众筹",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Crowdfunding&a=index&token=<?=$token?>"
+          },
+          {
+            "title": "微秒杀",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Seckill&a=index&token=<?=$token?>&type=seckill"
+          },
+          {
+            "title": "微砍价",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Bargain&a=index&token=<?=$token?>&type=Bargain"
+          },
+          {
+            "title": "微拍卖",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Auction&a=index&token=<?=$token?>&type=Auction"
+          },
+          {
+            "title": "降价拍",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Cutprice&a=index&token=<?=$token?>&type=Cutprice"
+          },
+          {
+            "title": "拼团购",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Pintuan&a=index&token=<?=$token?>&type=Pintuan"
+          },
+          {
+            "title": "一元夺宝",
+            "url": "http://wx.eduwxt.com/index.php?g=User&m=Unitary&a=index&token=<?=$token?>"
+          }
+        ]
+      },
+      "2": {
+        "title": " 平台支付对账 ",
+        "url":"http://wx.eduwxt.com/index.php?g=User&m=Platform&a=index&token=<?=$token?>"
+      },
+      "3": {
+        "title": " 微信支付账单 ",
+        "url":"http://wx.eduwxt.com/index.php?g=User&m=WeixinBill&a=index&token=<?=$token?>"
+      }
+    }
+  }
+]

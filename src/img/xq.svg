@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="5px" viewBox="0 0 19 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>详情</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="5" y="6" width="25" height="25" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="课程类别" transform="translate(-532.000000, -205.000000)">
+            <g id="修改-copy" transform="translate(524.000000, 189.000000)">
+                <g id="详情">
+                    <image x="5" y="6" width="25" height="25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABGdBTUEAA1teXP8meAAAAa1JREFUaAXtloFNxDAUQw8WoBvQETpCNqAjdAQ2oJvQEWACygZscGECYAKwoZWiKL9JcycEkr/ka/Nj5zdPQuJwUImACIiACIiACIiACIiACIiACIiACIiACIiACIiACIjA7xG4qBzVIXcFfUAvFWc4ZD6hV8hDe6qF+XoJPO8J1nh7hI4QP3YV1w4qqRGmN2jN8vkEEWCu6KE3zPKsu1ywdn9EMBwWvw+Zg6dM3m3kedkYVDj/fiNbteWQCgek3vlBjXF6Sf64kffYS80Mez08Z6sJJ4WHW++3xsSHwvyQyPMi1rywzxnZusw6fgxtoc8ZPqsf29u4gXWX6KVaN6lm3Cu9cJz7t+vSC/vCG86Gz+rHdh83sE71ErbDY6pZ23MIhn8vqfd3eBpjQEneb+S5l5oZ9np4zlojTgsHxO9DZtq0kScsB1nVYYOeeOa6nqzgqX1S9NA6iE+uHVRSI0zxh8/o8UK5omeGwtk8a4SK65R/LRtM8YuKBy5Gtzw9ntSeamGmWPP3r35EQAREQAREQAREQAREQAREQAREQAREQAREQAREQARE4I8S+AK1KrT6QxBlkwAAAABJRU5ErkJggg=="></image>
+                    <use fill="#616161" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
